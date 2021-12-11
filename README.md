@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://lon9.github.io/blog](https://lon9.github.io/blog)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lon9&theme=dracula" alt="lon9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lon9&theme=dracula&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="lon9" /></a> </p>
 
 
 [![](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/lon9)<br/>
