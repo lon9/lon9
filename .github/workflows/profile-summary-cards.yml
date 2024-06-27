@@ -27,3 +27,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
