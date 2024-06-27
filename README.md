@@ -8,9 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lon9&theme=dracula&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="lon9" /></a> </p>
 
 
-[![](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/lon9)<br/>
-[![https://github.com/lon9/github-profile-summary-cards](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/lon9)
-[![https://github.com/lon9/github-profile-summary-cards](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/lon9)<br/>
+
+[![](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lon9/lon9/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 
