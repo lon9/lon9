@@ -29,7 +29,7 @@
 <h2 align="center">Skills</h3>
 <p align = "center">
          <a href="https://skillicons.dev">
-            <img style="margin: 10px"src="https://skillicons.dev/icons?i=c,cpp,go,java,js,ts,vue,nodejs,py,ruby,rust,bash,kotlin,dart,solidity&perline=8"alt="My Skills"> 
+            <img style="margin: 10px"src="https://skillicons.dev/icons?i=c,cpp,go,java,js,ts,vue,nodejs,py,ruby,rust,bash,kotlin,dart,solidity&perline=5"alt="My Skills"> 
         </a>
     </p>
 <h2 align="center">Profile Views</h2>
