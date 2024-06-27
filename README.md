@@ -36,6 +36,6 @@
 
 <div align="center">
   
-![lon9](https://count.getloli.com/get/@lon9)
+![lon9](https://count.getloli.com/get/@lon9?theme=rule34)
 
 </div>
