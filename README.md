@@ -1,8 +1,4 @@
-<div align="center">
-    <a href="https://github.com/kawarimidoll/typograssy" target="_blank">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=WELCOME&l0=none&l1=282a36&l2=6272a4&l3=ff79c6&l4=bd93f9&bg=none&frame=none&speed=100&comment=">
-    </a>
-</div>
+
 
 <h2 align="center">About Me</h2>
 
@@ -14,7 +10,7 @@
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-        <img width="80%" src="https://github-profile-trophy.vercel.app/?username=lon9&theme=dracula&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=6" alt="lon9" />
+        <img width="80%" src="https://trophy.ryglcloud.net/?username=lon9&theme=dracula&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=6" alt="lon9" />
     </a>
 </div>
 
